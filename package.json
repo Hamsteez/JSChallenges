@@ -1,0 +1,23 @@
+{
+  "name": "jschallenges",
+  "version": "1.0.0",
+  "main": "anagrams.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gitAdd": "git add .",
+    "gitCommit": "git commit -m 'auto pushed'",
+    "gitPush": "git push -u origin main",
+    "git": "npm run gitAdd && npm run gitCommit && npm run gitPush"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamsteez/JSChallenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamsteez/JSChallenges/issues"
+  },
+  "homepage": "https://github.com/Hamsteez/JSChallenges#readme",
+  "description": ""
+}
